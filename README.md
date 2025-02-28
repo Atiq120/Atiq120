@@ -2,9 +2,8 @@
 - 👀 I’m interested in MACHINE LEARNING 
 - 🌱 I’m currently learning Phython
 - 💞️ I’m looking to collaborate on artificial intelligence
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 Connect with me on Linkedin (https://www.linkedin.com/in/atiq-ur-rehman-b892192ab/)
+
 
 <!---
 Atiq120/Atiq120 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
